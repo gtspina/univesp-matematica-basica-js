@@ -1,0 +1,14 @@
+{
+  "name": "univesp-matematica-basica-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "outras-bases-para-base-dez.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Spina",
+  "license": "MIT",
+  "dependencies": {
+    "synchronous-user-input": "0.0.4"
+  }
+}
